@@ -12,7 +12,7 @@ TripPlanr is a web application designed to help users plan their trips effortles
 
 ## Demo
 
-Check out the live demo of TripPlanr [here](https://example.com/link-to-live-demo).
+Check out the live demo of TripPlanr [here](http:trip-plannr.epizy.com/code.html).
 
 ## Installation
 
