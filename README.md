@@ -32,16 +32,19 @@ This repository contains simplified code snippets and mock implementations to il
 ## 🎬 Demo
 
 <div align="center">
-  <a href="https://vimeo.com/1093214994/df0bbe7742">
-    <img src="https://images.unsplash.com/photo-1488085061387-422e29b40080?auto=format&fit=crop&w=1200&q=80" alt="TripPlanr Demo Video" width="800" />
-    <br>
-    <img src="https://img.shields.io/badge/▶️_Watch_Demo_Video-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Play Demo Video" />
-  </a>
-  <p><i>TripPlanr Demo Video - Click to play on Vimeo</i></p>
+  <iframe src="https://player.vimeo.com/video/1093214994?h=df0bbe7742&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="800" height="450" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" title="TripPlanr Demo"></iframe>
 </div>
 
-> **Note**: GitHub doesn't support direct video embedding in README files. For the best experience, you can:
-> 1. Click the image above to watch on Vimeo
+<div align="center">
+  <p><i>TripPlanr Demo Video</i></p>
+  
+  <a href="https://vimeo.com/1093214994/df0bbe7742">
+    <img src="https://img.shields.io/badge/▶️_Watch_on_Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Watch on Vimeo" />
+  </a>
+</div>
+
+> **Note**: If the video doesn't appear above (GitHub may block iframes), you can:
+> 1. [Watch on Vimeo](https://vimeo.com/1093214994/df0bbe7742)
 > 2. Clone the repository and open the demo.mp4 file locally
 > 3. Visit our [live demo site](https://triplanr-hosted.onrender.com/)
 
