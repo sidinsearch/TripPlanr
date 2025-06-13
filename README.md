@@ -32,16 +32,18 @@ This repository contains simplified code snippets and mock implementations to il
 ## 🎬 Demo
 
 <div align="center">
-  <a href="https://vimeo.com/1093214994/df0bbe7742" target="_blank">
+  <a href="https://vimeo.com/1093214994/df0bbe7742">
     <img src="https://images.unsplash.com/photo-1488085061387-422e29b40080?auto=format&fit=crop&w=1200&q=80" alt="TripPlanr Demo Video" width="800" />
+    <br>
+    <img src="https://img.shields.io/badge/▶️_Watch_Demo_Video-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Play Demo Video" />
   </a>
-  <p><i>Click the image to watch the demo video on Vimeo</i></p>
-  <p>
-    <a href="https://vimeo.com/1093214994/df0bbe7742" target="_blank">
-      <img src="https://img.shields.io/badge/Watch_on_Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Watch on Vimeo" />
-    </a>
-  </p>
+  <p><i>TripPlanr Demo Video - Click to play on Vimeo</i></p>
 </div>
+
+> **Note**: GitHub doesn't support direct video embedding in README files. For the best experience, you can:
+> 1. Click the image above to watch on Vimeo
+> 2. Clone the repository and open the demo.mp4 file locally
+> 3. Visit our [live demo site](https://triplanr-hosted.onrender.com/)
 
 ### 🔗 Live Demo
 
