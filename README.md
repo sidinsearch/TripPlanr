@@ -19,7 +19,7 @@
     <a href="#features">Features</a> •
     <a href="#tech-stack">Tech Stack</a> •
     <a href="#getting-started">Getting Started</a> •
-    <a href="#private-repository">Private Repository</a>
+    <a href="#roadmap">Roadmap</a>
   </p>
 </div>
 
@@ -32,11 +32,10 @@ This repository contains simplified code snippets and mock implementations to il
 ## 🎬 Demo
 
 <div align="center">
-  <video width="800" controls>
-    <source src="./demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p><i>Demo of the TripPlanr application showing the itinerary generation process</i></p>
+  <a href="https://github.com/sidinsearch/TripPlanr/blob/main/demo.mp4?raw=true">
+    <img src="https://images.unsplash.com/photo-1488085061387-422e29b40080?auto=format&fit=crop&w=1200&q=80" alt="TripPlanr Demo Video" width="800" />
+  </a>
+  <p><i>Click the image to view the demo video</i></p>
 </div>
 
 ### 🔗 Live Demo
@@ -46,25 +45,6 @@ Experience TripPlanr in action: [https://triplanr-hosted.onrender.com/](https://
 ## ✨ Features
 
 TripPlanr leverages cutting-edge AI technology to create personalized travel itineraries based on your preferences:
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h2>🤖</h2><br />
-        <b>AI-Powered Itineraries</b>
-      </td>
-      <td align="center">
-        <h2>💰</h2><br />
-        <b>Budget Optimization</b>
-      </td>
-      <td align="center">
-        <h2>🎯</h2><br />
-        <b>Personalized Recommendations</b>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ### 🎯 Key Features
 
@@ -104,7 +84,7 @@ TripPlanr is built with modern technologies for optimal performance and user exp
 ### Infrastructure
 - **Vercel** for frontend hosting
 - **Railway** for backend services
-- **MongoDB Atlas** for database (private repo only)
+- **MongoDB Atlas** for database
 
 <div align="center">
   <h3>📱 Frontend ↔️ 🖥️ Backend ↔️ 🤖 AI Services</h3>
@@ -117,7 +97,7 @@ This repository contains a simplified version of TripPlanr for demonstration pur
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/TripPlanr.git
+git clone https://github.com/sidinsearch/TripPlanr.git
 cd TripPlanr
 
 # Install dependencies
@@ -152,52 +132,6 @@ tripplanr/
   <h3>📂 → 📄 → 🧩 → 🚀</h3>
   <p><i>From code organization to production deployment</i></p>
 </div>
-
-## 🔒 Private Repository
-
-The complete, fully-functional version of TripPlanr is maintained in a private repository. The private repository includes:
-
-- **Full API Integrations**: Real connections to Gemini, YouTube, and OpenTripMap APIs
-- **Authentication System**: Complete user registration and login functionality
-- **Database Integration**: MongoDB for storing user data and itineraries
-- **Advanced State Management**: Redux implementation with middleware
-- **Comprehensive Testing**: Unit, integration, and end-to-end tests
-- **CI/CD Pipeline**: Automated testing and deployment workflows
-- **Production Optimizations**: Performance enhancements for production use
-
-<div align="center">
-  <h3>🔐 Authentication • 💾 Database • 🔄 State Management</h3>
-  <p><i>Core components of the full application</i></p>
-</div>
-
-### Key Code Elements from Private Repository
-
-```typescript
-// Example of the Gemini API integration from the private repository
-export async function generateItinerary(params: ItineraryParams): Promise<ItineraryResponse> {
-  try {
-    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
-    
-    const prompt = buildPrompt(params);
-    const result = await model.generateContent(prompt);
-    const response = await result.response;
-    const text = response.text();
-    
-    return {
-      success: true,
-      data: text,
-    };
-  } catch (error) {
-    console.error("Error generating itinerary:", error);
-    return {
-      success: false,
-      error: "Failed to generate itinerary. Please try again."
-    };
-  }
-}
-```
-
-For inquiries about access to the private repository or collaboration opportunities, please contact the repository owner.
 
 ## 🗺️ Roadmap
 
