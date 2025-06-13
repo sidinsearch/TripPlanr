@@ -1,8 +1,10 @@
 # TripPlanr 🌍✈️
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1488085061387-422e29b40080?auto=format&fit=crop&w=1200&q=80" alt="TripPlanr Banner" width="800" />
+  <img src="https://github.com/user-attachments/assets/31fe086a-36cd-46db-a315-f63dad258b96" alt="image" style="max-width: 100%;">
   <br><br>
+</div>
+
   
   <p>
     <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 18" />
