@@ -32,10 +32,15 @@ This repository contains simplified code snippets and mock implementations to il
 ## 🎬 Demo
 
 <div align="center">
-  <a href="https://github.com/sidinsearch/TripPlanr/blob/main/demo.mp4?raw=true">
+  <a href="https://vimeo.com/1093214994/df0bbe7742" target="_blank">
     <img src="https://images.unsplash.com/photo-1488085061387-422e29b40080?auto=format&fit=crop&w=1200&q=80" alt="TripPlanr Demo Video" width="800" />
   </a>
-  <p><i>Click the image to view the demo video</i></p>
+  <p><i>Click the image to watch the demo video on Vimeo</i></p>
+  <p>
+    <a href="https://vimeo.com/1093214994/df0bbe7742" target="_blank">
+      <img src="https://img.shields.io/badge/Watch_on_Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Watch on Vimeo" />
+    </a>
+  </p>
 </div>
 
 ### 🔗 Live Demo
