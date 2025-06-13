@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Google_Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
   </p>
   
-  <h3>AI-Powered Travel Itinerary Generator</h3>
+  <h2>TripPlanr - AI-Powered Travel Itinerary Generator</h2>
   <p>Create personalized travel plans for your dream destinations in seconds</p>
   
   <p>
@@ -29,16 +29,19 @@
 
 This repository contains simplified code snippets and mock implementations to illustrate the overall structure of the application. It does not include the full functionality, API integrations, or proprietary algorithms used in the actual TripPlanr application.
 
-## Demo
+## 🎬 Demo
 
 <div align="center">
-  <img src="https://i.imgur.com/XYZ123.gif" alt="TripPlanr Demo" width="800" />
+  <video width="800" controls>
+    <source src="./demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
   <p><i>Demo of the TripPlanr application showing the itinerary generation process</i></p>
 </div>
 
-### Live Demo
+### 🔗 Live Demo
 
-Experience TripPlanr in action: [https://tripplanr.example.com](https://tripplanr.example.com)
+Experience TripPlanr in action: [https://triplanr-hosted.onrender.com/](https://triplanr-hosted.onrender.com/)
 
 ## ✨ Features
 
@@ -48,51 +51,35 @@ TripPlanr leverages cutting-edge AI technology to create personalized travel iti
   <table>
     <tr>
       <td align="center">
-        <img src="https://i.imgur.com/XYZ123.png" width="100" /><br />
+        <h2>🤖</h2><br />
         <b>AI-Powered Itineraries</b>
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/XYZ123.png" width="100" /><br />
+        <h2>💰</h2><br />
         <b>Budget Optimization</b>
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/XYZ123.png" width="100" /><br />
+        <h2>🎯</h2><br />
         <b>Personalized Recommendations</b>
       </td>
     </tr>
   </table>
 </div>
 
-### 🎯 Core Features
+### 🎯 Key Features
 
-- **AI-Powered Itineraries**: Generate detailed day-by-day travel plans using Google's Gemini AI
-- **Destination Explorer**: Discover popular and hidden gem locations worldwide
-- **Budget Optimization**: Plan trips that fit your financial constraints
-- **Travel Style Matching**: Customize itineraries based on your preferred travel style
-- **Attraction Recommendations**: Get personalized suggestions for must-visit places
-- **Video Recommendations**: Watch curated travel videos about your destination
-- **Responsive Design**: Seamless experience across desktop, tablet, and mobile devices
+- **AI-Powered Itineraries** 🤖: Generate detailed day-by-day travel plans using Google's Gemini AI
+- **Destination Explorer** 🔍: Discover popular and hidden gem locations worldwide
+- **Budget Optimization** 💰: Plan trips that fit your financial constraints
+- **Travel Style Matching** 🧳: Customize itineraries based on your preferred travel style
+- **Attraction Recommendations** 🏛️: Get personalized suggestions for must-visit places
+- **Video Recommendations** 📹: Watch curated travel videos about your destination
+- **Responsive Design** 📱: Seamless experience across desktop, tablet, and mobile devices
+- **Interactive Maps** 🗺️: Visualize your journey with integrated maps
 
 <div align="center">
-  <img src="https://i.imgur.com/XYZ123.png" alt="TripPlanr Features" width="800" />
+  <h3>🧳 → 🗺️ → 📝 → ✈️</h3>
   <p><i>The multi-step form process for creating personalized itineraries</i></p>
-</div>
-
-### 🚀 Advanced Features (Private Repository Only)
-
-The private repository contains the full implementation with advanced features:
-
-- **User Accounts**: Save and manage multiple itineraries
-- **Offline Access**: Download itineraries for offline viewing
-- **Sharing Options**: Share your plans with travel companions
-- **Real-time Updates**: Get notifications about travel advisories or changes
-- **Multi-language Support**: Plan your trip in your preferred language
-- **Export Options**: Download itineraries as PDF or add to calendar
-- **Interactive Maps**: Visualize your journey with integrated maps
-
-<div align="center">
-  <img src="https://i.imgur.com/XYZ123.png" alt="TripPlanr Advanced Features" width="800" />
-  <p><i>Screenshot from the private repository showing the interactive map feature</i></p>
 </div>
 
 ## 🛠️ Tech Stack
@@ -120,8 +107,8 @@ TripPlanr is built with modern technologies for optimal performance and user exp
 - **MongoDB Atlas** for database (private repo only)
 
 <div align="center">
-  <img src="https://i.imgur.com/XYZ123.png" alt="TripPlanr Architecture" width="600" />
-  <p><i>High-level architecture diagram from the private repository</i></p>
+  <h3>📱 Frontend ↔️ 🖥️ Backend ↔️ 🤖 AI Services</h3>
+  <p><i>High-level architecture of TripPlanr</i></p>
 </div>
 
 ## 🚀 Getting Started
@@ -162,8 +149,8 @@ tripplanr/
 ```
 
 <div align="center">
-  <img src="https://i.imgur.com/XYZ123.png" alt="TripPlanr Code Structure" width="600" />
-  <p><i>Visual representation of the application architecture</i></p>
+  <h3>📂 → 📄 → 🧩 → 🚀</h3>
+  <p><i>From code organization to production deployment</i></p>
 </div>
 
 ## 🔒 Private Repository
@@ -179,8 +166,8 @@ The complete, fully-functional version of TripPlanr is maintained in a private r
 - **Production Optimizations**: Performance enhancements for production use
 
 <div align="center">
-  <img src="https://i.imgur.com/XYZ123.png" alt="TripPlanr Private Repo" width="800" />
-  <p><i>Screenshot of the authentication system from the private repository</i></p>
+  <h3>🔐 Authentication • 💾 Database • 🔄 State Management</h3>
+  <p><i>Core components of the full application</i></p>
 </div>
 
 ### Key Code Elements from Private Repository
@@ -223,17 +210,17 @@ Future plans for TripPlanr include:
 - **AR Features**: Augmented reality guides for destinations
 
 <div align="center">
-  <img src="https://i.imgur.com/XYZ123.png" alt="TripPlanr Roadmap" width="700" />
-  <p><i>Visual roadmap from the private repository documentation</i></p>
+  <h3>📱 Mobile → 🤖 AI+ → 👥 Social → 🏨 Bookings → 🔍 AR</h3>
+  <p><i>Future development roadmap</i></p>
 </div>
 
 ## 📊 Analytics & Performance
 
-The private repository includes comprehensive analytics and performance monitoring:
+The application includes comprehensive analytics and performance monitoring:
 
 <div align="center">
-  <img src="https://i.imgur.com/XYZ123.png" alt="TripPlanr Analytics" width="800" />
-  <p><i>Analytics dashboard from the private repository</i></p>
+  <h3>📈 Usage Stats • ⚡ Performance Metrics • 🔍 User Behavior</h3>
+  <p><i>Key metrics tracked for continuous improvement</i></p>
 </div>
 
 ## ⚖️ Legal Notice
@@ -243,7 +230,7 @@ All code and assets in this repository are provided for demonstration purposes o
 <div align="center">
   <br><br>
   <p>
-    <img src="https://i.imgur.com/XYZ123.png" alt="TripPlanr Logo" width="100" />
+    <h2>✈️ 🌍 🧳</h2>
   </p>
   <h3>Made with ❤️ by Siddharth Shinde</h3>
   <p>© 2024 TripPlanr. All rights reserved.</p>
