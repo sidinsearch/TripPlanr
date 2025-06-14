@@ -14,13 +14,7 @@
   <h2>TripPlanr - AI-Powered Travel Itinerary Generator</h2>
   <p>Create personalized travel plans for your dream destinations in seconds</p>
   
-  <p>
-    <a href="#demo">View Demo</a> •
-    <a href="#features">Features</a> •
-    <a href="#tech-stack">Tech Stack</a> •
-    <a href="#getting-started">Getting Started</a> •
-    <a href="#roadmap">Roadmap</a>
-  </p>
+
 </div>
 
 ## ⚠️ Important Notice
