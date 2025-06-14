@@ -31,12 +31,11 @@ This repository contains simplified code snippets and mock implementations to il
 
 ## 🎬 Demo
 
-<div align="center">
-  <iframe src="https://player.vimeo.com/video/1093214994?h=df0bbe7742&title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" title="TripPlanr Demo"></iframe>
-  <p><i>TripPlanr Demo Video</i></p>
-</div>
 
-> **Note**: If the video doesn't appear above (GitHub may block iframes), you can [watch on Vimeo](https://vimeo.com/1093214994/df0bbe7742) or visit our [live demo site](https://triplanr-hosted.onrender.com/)
+
+https://github.com/user-attachments/assets/bd91c384-4822-4cae-90c0-4931e286ad39
+
+
 
 ### 🔗 Live Demo
 
@@ -148,16 +147,8 @@ Future plans for TripPlanr include:
   <p><i>Future development roadmap</i></p>
 </div>
 
-## 📊 Analytics & Performance
 
-The application includes comprehensive analytics and performance monitoring:
-
-<div align="center">
-  <h3>📈 Usage Stats • ⚡ Performance Metrics • 🔍 User Behavior</h3>
-  <p><i>Key metrics tracked for continuous improvement</i></p>
-</div>
-
-## ⚖️ Legal Notice
+##  Legal Notice
 
 All code and assets in this repository are provided for demonstration purposes only. Unauthorized use, reproduction, or distribution of this code for commercial purposes is strictly prohibited. All rights reserved.
 
